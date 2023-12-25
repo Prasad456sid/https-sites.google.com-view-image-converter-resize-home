@@ -1,0 +1,51 @@
+{
+    "Device Info": [
+        {
+            "sync_user_agent": "Chrome WIN 120.0.6099.111 (3419140ab665596f21b385ce136419fde0924272-refs/branch-heads/6099@{#1483}) channel(stable)",
+            "device_type": "TYPE_WIN",
+            "chrome_version_info": {"version_number": "120.0.6099.111"},
+            "signin_scoped_device_id": "e4dcd23c-b40a-4fa5-8e51-4fa3bd4e8b1a",
+            "manufacturer": "LENOVO",
+            "cache_guid": "OdTJyIpMMeFMdQB46XeD2Q==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_DESKTOP",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": true},
+            "invalidation_fields": {
+                        "instance_id_token": "ee6ddKgTaAA:APA91bHU2gtjGCEpOKLJ4WABVS-fMB9fH-Tm_Da1RW7djFwoSDXu0RbrxQ5oRHdZ_cVehUCCvzhjpWePWRmmcwG3jxF3mk7ydeK53hCOISuRgShX-i5eqXRPRBy1I9uF-9l8koJSRVtc",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    45873,
+                                    63951,
+                                    31729,
+                                    306270,
+                                    330441,
+                                    774329,
+                                    41210,
+                                    48119,
+                                    88610,
+                                    50119,
+                                    48364,
+                                    103656,
+                                    96159,
+                                    150251,
+                                    170540,
+                                    154522,
+                                    163425,
+                                    186662,
+                                    411028,
+                                    601980,
+                                    673225,
+                                    963985,
+                                    1034378,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_WINDOWS",
+            "last_updated_timestamp": 1703413025107,
+            "model": "81WB",
+            "client_name": "LENOVO",
+            "chrome_version": "120.0.6099.111"
+}
+    ]
+}

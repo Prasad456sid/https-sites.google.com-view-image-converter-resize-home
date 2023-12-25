@@ -1,0 +1,22 @@
+[{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Reliance Jio",
+      "playStoreClientVersion": 83873320,
+      "manufacturer": "vivo",
+      "modelName": "V2033",
+      "deviceName": "2034",
+      "productName": "2033",
+      "retailBrand": "vivo",
+      "totalMemoryBytes": "2970562560",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "IN",
+      "userLocale": "en_US",
+      "buildFingerprint": "vivo/2033/2034:11/RP1A.200720.012/compiler07241837:user/release-keys",
+      "androidSdkVersion": "30"
+    },
+    "deviceRegistrationTime": "2021-07-04T03:33:33.709Z",
+    "userAddedOnDeviceTime": "2023-11-18T16:45:37.840Z",
+    "lastTimeDeviceActive": "2023-12-24T18:40:35.661491Z"
+  }
+}]

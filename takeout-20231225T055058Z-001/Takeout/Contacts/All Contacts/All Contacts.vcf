@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+item1.EMAIL;TYPE=INTERNET:googleplay-developer-support@google.com
+item1.X-ABLabel:
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+item1.EMAIL;TYPE=INTERNET:payments-support@google.com
+item1.X-ABLabel:
+END:VCARD

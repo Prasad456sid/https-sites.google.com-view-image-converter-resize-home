@@ -1,0 +1,37 @@
+{
+  "createdTime": "2023-11-18T08:59:03.596Z",
+  "modifiedTime": "2023-11-18T08:59:03.596Z",
+  "deviceSettings": [{
+    "deviceTag": 873927545,
+    "reportingEnabled": false,
+    "devicePrettyName": "V2033",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-11-18T08:59:03.596Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-11-18T08:59:03.596Z"
+    },
+    "androidOsLevel": 30,
+    "deviceSpec": {
+      "manufacturer": "vivo",
+      "brand": "vivo",
+      "product": "2033",
+      "device": "2034",
+      "model": "V2033",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }],
+  "hasReportedLocations": false,
+  "hasSetRetention": false,
+  "encryptedBackupsControls": {
+    "873927545": {
+      "enabled": false
+    }
+  },
+  "timelineEnabled": false,
+  "latestTimelineSettingChange": {
+    "timelineEnabledModificationTime": "2023-11-18T08:59:03.596Z"
+  }
+}

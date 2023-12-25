@@ -1,0 +1,14 @@
+{
+  "name": {
+    "givenName": "Sumitra",
+    "familyName": "Devi",
+    "formattedName": "Sumitra Devi"
+  },
+  "displayName": "Sumitra Devi",
+  "emails": [{
+    "value": "sd8239879@gmail.com"
+  }],
+  "gender": {
+    "type": "female"
+  }
+}
